@@ -1,4 +1,4 @@
-# Отчёт о тестировании <IntelliJ IDEA Community Edition>
+# Отчёт о тестировании<IntelliJ IDEA Community Edition>
 
 ## Краткое описание
 
