@@ -13,9 +13,13 @@
 
 # Описание процесса тестирования
 
-В качестве тестовых данных использовались данные <https://www.freeformatter.com/credit-card-number-generator-validator.html>:
+В качестве тестовых данных использовались данные: 
+  
+  <https://www.freeformatter.com/credit-card-number-generator-validator.html>:
 
 <перечисление данных с ожидаемым результатом>
+  
+  Result is FAIL
 
 # Тестирование производилось в следующем окружении:
 
