@@ -1,8 +1,10 @@
-# Отчёт о тестировании<IntelliJ IDEA Community Edition>
+# Отчёт о тестировании
 
 ## Краткое описание
+ 
  приложения 
-  <IntelliJ IDEA Community Edition>
+ 
+<IntelliJ IDEA Community Edition>
 <Дата начала> - <Дата окончания>
 <28.05.21> - <28.05.21>
 
