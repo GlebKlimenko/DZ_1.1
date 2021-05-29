@@ -24,6 +24,6 @@
 
 ### Тестирование производилось в следующем окружении:
 
-Windows 7, 64bit
-Java version "11.0.7" 2020-04-14
+Windows 10 Home x64
+Java version "11.0.11"
 
